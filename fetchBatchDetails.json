@@ -1,0 +1,43 @@
+{
+    "EPAAccountResponse": {
+        "RequestID": "EPABQTREQ251220221",
+        "ResponseID": "EPABQTRES251220221",
+        "ResponseDate": "2020-12-25 06:08:54",
+        "BatchDetails": {
+            "PFMSBatchNo": "C85431111",
+            "C1106": "2",
+            "C7002": "2020-09-25 22:10:00",
+            "BatchStatus": "1",
+            "AuthMode": "1",
+            "AuthorizerID": "1234",
+            "AuthorizationDate": "2020-12-20 02:08:17",
+            "RejectionRemark": "2255666",
+            "beneficiaryDetails": [
+                {
+                    "PFMSTransID": "C0888818181",
+                    "PmtMtd": "1",
+                    "BeneBankName": "ICICI Bank",
+                    "C5569": "ICICI021615",
+                    "C6061": "50167972496",
+                    "UID": "",
+                    "BankIIN": "",
+                    "BeneAccountName": "MS. HALIMA  KHATUN",
+                    "C4038": "1000.00"
+                },
+                {
+                    "PFMSTransID": "C000022222",
+                    "PmtMtd": "5",
+                    "BeneBankName": "",
+                    "C5569": "",
+                    "C6061": "",
+                    "UID": "954594495559",
+                    "BankIIN": "607117",
+                    "BeneAccountName": "MR. MOHSIN  KHATUN",
+                    "C4038": "10019.00"
+                }
+            ]
+        }
+    },
+    "Status": "Success",
+    "ErrorCode": ""
+}
